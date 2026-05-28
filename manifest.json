@@ -1,6 +1,6 @@
 {
-    "name": "NexPOS",
-    "short_name": "nexpos",
+    "name": "tillnex_pos",
+    "short_name": "tillnex_pos",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
